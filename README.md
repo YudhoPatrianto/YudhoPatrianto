@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">👋Hello Iam Yudho Patrianto👋</h1>
 
-<!--
-**YudhoPatrianto/YudhoPatrianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🥲 I am A Noob Developer Redmi 10 Selene :) 
+### 📛 Name    :Yudho Patrianto (You Can Call Me:Yudho Or Dhooo)
+### 🇮🇩 From    : Indonesia
+### 📱 Device  : Redmi 10 (selene)
 
-Here are some ideas to get you started:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 My Github Statistics 🔥
+![YudhoPatrianto github stats](https://github-readme-stats.vercel.app/api?username=YudhoPatrianto&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+![YudhoPatrianto Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YudhoPatrianto&theme=tokyonight&layout=compact)
+
+------
