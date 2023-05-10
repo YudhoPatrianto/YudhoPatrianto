@@ -5,8 +5,9 @@
 ### 🇮🇩 From    : Indonesia
 ### 📱 Device  : Redmi 10 (selene)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h1><center>Klik Ini :v(https://nekopoi.care)<h1></center>
 ## 🔥 My Github Statistics 🔥
 ![YudhoPatrianto github stats](https://github-readme-stats.vercel.app/api?username=YudhoPatrianto&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
