@@ -1,10 +1,10 @@
 <h1 align="center">👋Hello Iam Yudho Patrianto👋</h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-### 🥲 I am A Noob Developer Redmi 10 Selene :) 
-### 📛 Name    :Yudho Patrianto (You Can Call Me:Yudho Or Dhooo)
-### 🇮🇩 From    : Indonesia
-### 📱 Device  : Redmi 10 (selene)
+### <h4 align="center">I am A Noob Developer Redmi 10 Selene :)🥲</h4>
+### <h4 align="center">My Name Is Yudho Patrianto (You Can Call Me:Yudho Or Dhooo)</h4>
+### <h4 align="center">I'm From Indonesia</h4>
+### <h4 align="center">I'm Developing Of Device Redmi 10 (selene)</h4>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## 🔥 My Github Statistics 🔥
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
