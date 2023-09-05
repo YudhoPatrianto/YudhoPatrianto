@@ -16,5 +16,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## Wanna Build Custom Rom For Redmi 10 (selene) ?
 ## You Can Start From Here:
-
+<h3>Device Tree: https://github.com/YudhoPatrianto/android_device_xiaomi_redmi10</h3>
+<h3>Vendor Tree: https://github.com/YudhoPatrianto/android_vendor_xiaomi_selene</h3>
+<h3>Kernel Tree: https://github.com/YudhoPatrianto/android_kernel_xiaomi_selene</h3>
+<h3>Hardware Mediatek: https://github.com/YudhoPatrianto/hardware_mediatek</h3>
+<h3>Hardware Xiaomi: https://github.com/YudhoPatrianto/android_hardware_xiaomi</h3>
+<h3>Sepolicy Vndr: https://github.com/YudhoPatrianto/device_mediatek_sepolicy_vndr</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+## Build Command
+<h4>. build/envsetup.sh</h4>
+<h4>brunch selene</h4>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
