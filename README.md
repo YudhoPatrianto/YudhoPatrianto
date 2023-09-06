@@ -23,7 +23,7 @@
 <h3>Hardware Xiaomi: https://github.com/YudhoPatrianto/android_hardware_xiaomi</h3>
 <h3>Sepolicy Vndr: https://github.com/YudhoPatrianto/device_mediatek_sepolicy_vndr</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h2><bold><Build Command
+<h2><bold>Build Command
 <h4>. build/envsetup.sh</h4>
 <h4>brunch selene</h4>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
