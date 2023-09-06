@@ -14,8 +14,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ------
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h2 align="center">Wan't Build Custom Rom For Redmi 10 (selene) ?
-<h1><bold><center>You Can Start Pick Sources From Here:
+<h4 align="center">Wan't Build Custom Rom For Redmi 10 (selene) ?
+<h3 align="center">You Can Start Pick Sources From Here:
 <h3>Device Tree: https://github.com/YudhoPatrianto/android_device_xiaomi_redmi10</h3>
 <h3>Vendor Tree: https://github.com/YudhoPatrianto/android_vendor_xiaomi_selene</h3>
 <h3>Kernel Tree: https://github.com/YudhoPatrianto/android_kernel_xiaomi_selene</h3>
