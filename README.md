@@ -17,7 +17,7 @@
 <h1 align="center">Wan't Build Custom Rom For Redmi 10 (selene) ?
 <h3 align="center">You Can Start Pick Sources From Here:
 <h3 align="center">Device Tree: https://github.com/YudhoPatrianto/android_device_xiaomi_redmi10 Or ↓
-  <h5>git clone https://github.com/YudhoPatrianto/android_device_xiaomi_redmi10 -b aosp device/xiaomi/selene
+<h3 align="center">git clone https://github.com/YudhoPatrianto/android_device_xiaomi_redmi10 -b aosp device/xiaomi/selene
 <h3 align="center">Vendor Tree: https://github.com/YudhoPatrianto/android_vendor_xiaomi_selene Or ↓
 <h5 align="center">git clone https://github.com/YudhoPatrianto/android_vendor_xiaomi_selene -b tiramisu vendor/xiaomi/selene
 <h3 align="center">Kernel Tree: https://github.com/YudhoPatrianto/android_kernel_xiaomi_selene Or ↓
