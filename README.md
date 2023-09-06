@@ -19,15 +19,15 @@
 <h3 align="center">Device Tree: https://github.com/YudhoPatrianto/android_device_xiaomi_redmi10 Or ↓
   <h5>git clone https://github.com/YudhoPatrianto/android_device_xiaomi_redmi10 -b aosp device/xiaomi/selene
 <h3 align="center">Vendor Tree: https://github.com/YudhoPatrianto/android_vendor_xiaomi_selene Or ↓
-    <h5>git clone https://github.com/YudhoPatrianto/android_vendor_xiaomi_selene -b tiramisu vendor/xiaomi/selene
+<h5 align="center">git clone https://github.com/YudhoPatrianto/android_vendor_xiaomi_selene -b tiramisu vendor/xiaomi/selene
 <h3 align="center">Kernel Tree: https://github.com/YudhoPatrianto/android_kernel_xiaomi_selene Or ↓
-    <h5>git clone https://github.com/YudhoPatrianto/android_kernel_xiaomi_selene -b tiramisu kernel/xiaomi/selene
+<h5 align="center">git clone https://github.com/YudhoPatrianto/android_kernel_xiaomi_selene -b tiramisu kernel/xiaomi/selene
 <h3 align="center">Hardware Mediatek: https://github.com/YudhoPatrianto/hardware_mediatek  Or ↓
-    <h5>git clone https://github.com/YudhoPatrianto/hardware_mediatek -b tiramisu hardware/mediatek
+<h5 align="center">git clone https://github.com/YudhoPatrianto/hardware_mediatek -b tiramisu hardware/mediatek
 <h3 align="center">Hardware Xiaomi: https://github.com/YudhoPatrianto/android_hardware_xiaomi Or ↓
-    <h5>git clone https://github.com/YudhoPatrianto/android_hardware_xiaomi -b tiramisu hardware/xiaomi
+<h5 align="center">git clone https://github.com/YudhoPatrianto/android_hardware_xiaomi -b tiramisu hardware/xiaomi
 <h3 align="center">Sepolicy Vndr: https://github.com/YudhoPatrianto/device_mediatek_sepolicy_vndr Or ↓
-    <h5>git clone https://github.com/YudhoPatrianto/android_device_mediatek_sepolicy_vndr -b tiramisu device/mediatek/sepolicy_vndr
+<h5 align="center">git clone https://github.com/YudhoPatrianto/android_device_mediatek_sepolicy_vndr -b tiramisu device/mediatek/sepolicy_vndr
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h2><bold>Build Command
 <h4>. build/envsetup.sh</h4>
