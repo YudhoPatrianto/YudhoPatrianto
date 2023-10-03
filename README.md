@@ -21,7 +21,7 @@
 <h3 align="center">Device Tree: https://github.com/YudhoPatrianto/android_device_xiaomi_redmi10 Or ↓
 <h5 align="center">git clone https://github.com/YudhoPatrianto/android_device_xiaomi_redmi10 -b aosp device/xiaomi/selene
 <h3 align="center">Vendor Tree: https://github.com/YudhoPatrianto/android_vendor_xiaomi_selene Or ↓
-<h5 align="center">git clone https://github.com/YudhoPatrianto/android_vendor_xiaomi_selene -b tiramisu vendor/xiaomi/selene
+<h5 align="center">git clone https://github.com/YudhoPatrianto/vendor_xiaomi_selene -b 13 vendor/xiaomi/selene
 <h3 align="center">Kernel Tree: https://github.com/YudhoPatrianto/kernel_xiaomi_selene Or ↓
 <h5 align="center">git clone https://github.com/YudhoPatrianto/kernel_xiaomi_selene -b ksu-test kernel/xiaomi/selene
 <h3 align="center">Hardware Mediatek: https://github.com/YudhoPatrianto/hardware_mediatek  Or ↓
