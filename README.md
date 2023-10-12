@@ -5,7 +5,6 @@
 ### 📛 My Name Is Name Yudho Patrianto (You Can Call Me:Yudho Or Dhooo)
 ### I'm From Indonesia 🇮🇩
 ### I'm Now Working Building Custom Rom On Device Redmi 10 (selene) 📱 
-### Want's To Collaborate or Authored Some My Source?? You Can Chat On My Telegram https://t.me/YudhoPatrianto and send your username github to me
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## 🔥 My Github Statistics 🔥
