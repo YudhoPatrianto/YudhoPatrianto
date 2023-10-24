@@ -31,8 +31,6 @@
 <h5 align="center">git clone https://github.com/YudhoPatrianto/device_mediatek_sepolicy_vndr -b 13 device/mediatek/sepolicy_vndr
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h2><bold>Build Command
-```bash
 . build/envsetup.sh
-```
 <h4>brunch selene</h4>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
