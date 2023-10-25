@@ -8,23 +8,15 @@ height="300" />
 
 All Information About Me
 ---------------
-🏷My Name Is : Yudho Patrianto (You Can Call Me Yudho or Dhooo)
-🏷My Name Maintainer Some ROM's : YudhoPatrianto
-##
-🏷My Project Name : YudhoPRJKT
-##
-🇮🇩I'm From : Indonesia
-##
-👦I'm 20 Years Old
-##
-📱My Maintained Devices : Redmi 10 (selene)
-##
-🥲I'm A Noob Developer Redmi 10 selene
-##
-❓Have Take Official ROM? : NO
-##
+🏷My Name Is : Yudho Patrianto (You Can Call Me Yudho or Dhooo)\
+🏷My Name Maintainer Some ROM's : YudhoPatrianto\
+🏷My Project Name : YudhoPRJKT\
+🇮🇩I'm From : Indonesia\
+👦I'm 20 Years Old\
+📱My Maintained Devices : Redmi 10 (selene)\
+🥲I'm A Noob Developer Redmi 10 selene\
+❓Have Take Official ROM? : NO\
 👥Have A Teams ?: NO
-
 
 
 My Github Statistics
