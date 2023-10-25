@@ -33,7 +33,7 @@ Want to Contact Me?
 
 Want to create a custom ROM for Redmi 10 Selene? You Must Follow This!
 ---------------
-**You Need Ubuntu With Spesification Minimum:\**
+You Need Ubuntu With Spesification Minimum:\
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT28alGmo4vSRrUGuKXTzUAOwLexCIe9bXqdg&usqp=CAU" width=25 height=25/> CPU: 8 Cores\
 <img src="https://media.istockphoto.com/id/1405202427/photo/closeup-circuit-board-of-computers-memorys-module-so-dimm-ddr-standart-for-laptop-isolated-on.jpg?s=612x612&w=0&k=20&c=pzkQzXpr4kJ_G0E43l7REMMhwA_fhOSbkmZ6hiZXpP4=" width=25 height=25/>RAM: 32 GB\
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3_fJzR9bJUrHo9HEJkWvrZL27uCdlwMXzf9WIkw8Of8k811eHYIYPT3EWNLoLDj9RawU&usqp=CAU" width=25 height=25/>Disk: 500GB (More Than 500GB Is Very Recommended)\
