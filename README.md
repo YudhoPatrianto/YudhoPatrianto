@@ -1,0 +1,132 @@
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/124352333?v=4"
+width="300"
+height="300" />
+</p>
+ 
+<h1 align="center">👋Hi There👋
+
+All Information About Me
+---------------
+🏷My Name Is : Yudho Patrianto (You Can Call Me Yudho or Dhooo)
+🏷My Name Maintainer Some ROM's : YudhoPatrianto
+🏷My Project Name : YudhoPRJKT
+🇮🇩I'm From : Indonesia
+👦I'm 20 Years Old
+📱My Maintained Devices : Redmi 10 (selene)
+🥲I'm A Noob Developer Redmi 10 selene
+❓Have Take Official ROM? : NO
+👥Have A Teams ?: NO
+
+
+My Github Statistics
+---------------
+![YudhoPatrianto github stats](https://github-readme-stats.vercel.app/api?username=YudhoPatrianto&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+![YudhoPatrianto Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YudhoPatrianto&theme=tokyonight&layout=compact)
+
+
+Want to Contact Me?
+---------------
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" width=20 height=20/> [YudhoPatrianto](https://t.me/YudhoPatrianto "YudhoPatrianto")
+
+
+Want to create a custom ROM for Redmi 10 Selene? You Must Follow This!
+---------------
+**You Need Ubuntu With Spesification Minimum:**
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT28alGmo4vSRrUGuKXTzUAOwLexCIe9bXqdg&usqp=CAU" width=25 height=25/> CPU: 8 Cores
+<img src="https://media.istockphoto.com/id/1405202427/photo/closeup-circuit-board-of-computers-memorys-module-so-dimm-ddr-standart-for-laptop-isolated-on.jpg?s=612x612&w=0&k=20&c=pzkQzXpr4kJ_G0E43l7REMMhwA_fhOSbkmZ6hiZXpP4=" width=25 height=25/>RAM: 32 GB
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3_fJzR9bJUrHo9HEJkWvrZL27uCdlwMXzf9WIkw8Of8k811eHYIYPT3EWNLoLDj9RawU&usqp=CAU" width=25 height=25/>Disk: 500GB (More Than 500GB Is Very Recommended)
+<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/2048px-Logo-ubuntu_cof-orange-hex.svg.png" width=25 height=25/>	Ubuntu Version : 20.04 (Focal Fossa) Or 22.04 (Jammy Jellyfish)
+
+
+Notes!: You Can Click Copy Logo To Copy The Text Or Command
+---------------
+**You Need Update And Upgrade Dependency Before Installing Packages**
+```bash
+sudo apt-get update && sudo apt-get upgrade -y
+# You Must Input Your Password Ubuntu If Displayed [sudo] And Press Enter In Your Keyboard And Waiting To Completed 
+```
+
+
+#### First You Must Installing The Packages ####
+---------------
+```bash
+sudo apt-get install bc bison build-essential ccache curl flex g++-multilib gcc-multilib git gnupg gperf imagemagick lib32ncurses5-dev lib32readline-dev lib32z1-dev liblz4-tool libncurses5-dev libsdl1.2-dev libssl-dev libxml2 libxml2-utils lzop pngcrush rsync schedtool squashfs-tools xsltproc zip zlib1g-dev -y
+# You Need Waiting Until Completed Installing Packages
+```
+
+
+### Configuration Name And Email Git 
+---------------
+```bash
+git config --global user.name 
+```
+```bash
+git config --global user.email
+```
+**Example**
+<h5>git config --global user.name MyName
+
+
+<h5>git config --global user.email MyEmail@email.com
+
+
+
+### Time To Sync The ROM
+#### Create Your Folder ROM
+
+```bash
+mkdir ROMS
+```
+```bash
+cd ROMS
+```
+###### Time To Sync ROM Into Your Folder #### 
+---------------
+```bash
+repo init -u https://yourlinksmanifestROM.com -b branchROM
+```
+
+#### And Go To Process Sync And Waiting Until Finished ####
+```bash
+repo sync -j$(nproc --all)
+```
+
+After This You Need Clonned Some Sources
+```bash
+git clone https://github.com/YudhoPatrianto/android_device_xiaomi_selene -b aosp device/xiaomi/selene
+```
+```bash
+git clone https://github.com/YudhoPatrianto/android_vendor_xiaomi_selene -b 13 vendor/xiaomi/selene
+```
+```bash
+git clone https://github.com/YudhoPatrianto/android_kernel_xiaomi_selene -b tiramisu kernel/xiaomi/selene
+```
+```bash
+git clone https://github.com/YudhoPatrianto/hardware_mediatek -b 13 hardware/mediatek
+```
+```bash
+git clone https://github.com/YudhoPatrianto/android_hardware_xiaomi -b 13 hardware/xiaomi
+```
+```bash
+git clone https://github.com/YudhoPatrianto/device_mediatek_sepolicy_vndr -b 13 device/mediatek/sepolicy_vndr
+```
+```bash
+git clone https://github.com/YudhoPatrianto/packages_apps_ImsService -b 13 packages/apps/ImsService
+```
+
+After Cloned Sources ,You Need Compile This ROM
+```bash
+chmod 777 device/xiaomi/selene/dtbo/append_certs.py
+```
+```bash
+source build/envsetup.sh
+```
+```bash
+lunch aosp_selene-userdebug
+```
+```bash
+make bacon -j$(nproc --all)
+```
+# And Wait Until Completed Compile 
