@@ -45,8 +45,9 @@ Notes!: You Can Click Copy Logo To Copy The Text Or Command
 **You Need Update And Upgrade Dependency Before Installing Packages**
 ```bash
 sudo apt-get update && sudo apt-get upgrade -y
+# You Must Input Your Password Ubuntu If Displayed [sudo] And Press Enter In Your Keyboard And Waiting To Completed 
+
 ```
-<h5> You Must Input Your Password Ubuntu If Displayed [sudo] And Press Enter In Your Keyboard And Waiting To Completed 
 
 
 
