@@ -9,7 +9,6 @@ height="300" />
 All Information About Me
 ---------------
 🏷My Name Is : Yudho Patrianto (You Can Call Me Yudho or Dhooo)
-##
 🏷My Name Maintainer Some ROM's : YudhoPatrianto
 ##
 🏷My Project Name : YudhoPRJKT
