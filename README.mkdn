@@ -31,18 +31,20 @@ Want to Contact Me?
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" width=20 height=20/> [YudhoPatrianto](https://t.me/YudhoPatrianto "YudhoPatrianto")
 
 
-Want to create a custom ROM for Redmi 10 Selene? You Must Follow This!
----------------
+<h5>Want to create a custom ROM for Redmi 10 Selene? You Must Follow This!
+
 You Need Ubuntu With Spesification Minimum:\
+---------------
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT28alGmo4vSRrUGuKXTzUAOwLexCIe9bXqdg&usqp=CAU" width=25 height=25/> CPU: 8 Cores\
 <img src="https://media.istockphoto.com/id/1405202427/photo/closeup-circuit-board-of-computers-memorys-module-so-dimm-ddr-standart-for-laptop-isolated-on.jpg?s=612x612&w=0&k=20&c=pzkQzXpr4kJ_G0E43l7REMMhwA_fhOSbkmZ6hiZXpP4=" width=25 height=25/>RAM: 32 GB\
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3_fJzR9bJUrHo9HEJkWvrZL27uCdlwMXzf9WIkw8Of8k811eHYIYPT3EWNLoLDj9RawU&usqp=CAU" width=25 height=25/>Disk: 500GB (More Than 500GB Is Very Recommended)\
 <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/2048px-Logo-ubuntu_cof-orange-hex.svg.png" width=25 height=25/>	Ubuntu Version : 20.04 (Focal Fossa) Or 22.04 (Jammy Jellyfish)
 
 
-Notes!: You Can Click Copy Logo To Copy The Text Or Command
+<h5>Notes!: You Can Click Copy Logo To Copy The Text Or Command
+
+You Need Update And Upgrade Dependency Before Installing Packages
 ---------------
-**You Need Update And Upgrade Dependency Before Installing Packages**
 ```bash
 sudo apt-get update && sudo apt-get upgrade -y
 # You Must Input Your Password Ubuntu If Displayed [sudo] And Press Enter In Your Keyboard And Waiting To Completed 
@@ -51,7 +53,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 
 
 
-#### First You Must Installing The Packages ####
+First You Must Installing The Packages
 ---------------
 ```bash
 sudo apt-get install bc bison build-essential ccache curl flex g++-multilib gcc-multilib git gnupg gperf imagemagick lib32ncurses5-dev lib32readline-dev lib32z1-dev liblz4-tool libncurses5-dev libsdl1.2-dev libssl-dev libxml2 libxml2-utils lzop pngcrush rsync schedtool squashfs-tools xsltproc zip zlib1g-dev -y
