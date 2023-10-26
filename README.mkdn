@@ -69,8 +69,6 @@ git config --global user.email
 ```
 **Example**
 <h5>git config --global user.name MyName
-
-
 <h5>git config --global user.email MyEmail@email.com
 
 
@@ -96,6 +94,7 @@ repo sync -j$(nproc --all)
 ```
 
 After This You Need Clonned Some Sources
+---------------
 ```bash
 git clone https://github.com/YudhoPatrianto/android_device_xiaomi_selene -b aosp device/xiaomi/selene
 ```
@@ -119,6 +118,7 @@ git clone https://github.com/YudhoPatrianto/packages_apps_ImsService -b 13 packa
 ```
 
 After Cloned Sources ,You Need Compile This ROM
+---------------
 ```bash
 chmod 777 device/xiaomi/selene/dtbo/append_certs.py
 ```
