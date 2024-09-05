@@ -16,8 +16,8 @@ All Information About Me
 📱My Maintained Devices :\
   Redmi 10 (selene)\
   Redmi 12 (fire)\
-🥲I'm A Noob Developer Redmi 10 selene\
-❓Have Take Official ROM? : NO\
+🥲I'm A Noob Developer Redmi 10 selene And Redmi 12 fire\
+❓Have Any Official Custom Rom ROM Or Custom Recovery? : Yes\
 👥Have A Teams ?: Yes
 
 
@@ -35,7 +35,7 @@ Want to Contact Me?
 
 <h5>Want to create a custom ROM for Redmi 10 Selene? You Must Follow This!
 
-You Need Ubuntu With Spesification Minimum:\
+You Need Ubuntu With Spesification Minimum:
 ---------------
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT28alGmo4vSRrUGuKXTzUAOwLexCIe9bXqdg&usqp=CAU" width=25 height=25/> CPU: 8 Cores\
 <img src="https://media.istockphoto.com/id/1405202427/photo/closeup-circuit-board-of-computers-memorys-module-so-dimm-ddr-standart-for-laptop-isolated-on.jpg?s=612x612&w=0&k=20&c=pzkQzXpr4kJ_G0E43l7REMMhwA_fhOSbkmZ6hiZXpP4=" width=25 height=25/>RAM: 32 GB\
@@ -97,7 +97,7 @@ repo init -u https://yourlinksmanifestROM.com -b branchROM
 repo sync -j$(nproc --all)
 ```
 
-After This You Need Clonned Some Sources
+After This You Need Clonned Some Sources If You Building For Redmi 10 selene
 ---------------
 ```bash
 git clone https://github.com/YudhoPatrianto/android_device_xiaomi_selene -b aosp device/xiaomi/selene
